@@ -42,12 +42,12 @@ p{
     position: absolute;
 
 }
-#div4{
-    background-color: gray;
+footer{
+    text-align: center;
+    width: 100vw;
+    height: 20px;
+    background: grey;
     color: white;
-    padding: 2px;
-}
-h4{
-    position: relative;
-    left: 50%;
+    position: absolute;
+    padding: 25px;
 }
