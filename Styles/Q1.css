@@ -7,6 +7,9 @@ section{
 
     position: relative;
 }
+body{
+    overflow: hidden;
+}
 #div1{
     width: 50%;
     height: 50%;
